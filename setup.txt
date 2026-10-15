@@ -1,0 +1,3 @@
+tipos de palos: {Hearts, Diamonds, Clubs, Spades}
+nro_jugadores: 5
+Valor_ganar: 20
